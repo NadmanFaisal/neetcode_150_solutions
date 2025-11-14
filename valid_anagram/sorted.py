@@ -6,6 +6,9 @@ def isAnagram(s: str, t: str) -> bool:
     else:
         return False
 
+s = "racecar"
+t = "carrace"
+
 print(s)
 print(t)
 
